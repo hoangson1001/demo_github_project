@@ -1,0 +1,9 @@
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\bin\Debug\Demo_GitHub.exe.config
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\bin\Debug\Demo_GitHub.exe
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\bin\Debug\Demo_GitHub.pdb
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.csprojResolveAssemblyReference.cache
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.Form1.resources
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.Properties.Resources.resources
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.csproj.GenerateResource.Cache
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.exe
+E:\LuuDuLieuSinhVien\PTPM&UDTM\demo_github_project\Demo_GitHub\Demo_GitHub\obj\Debug\Demo_GitHub.pdb
